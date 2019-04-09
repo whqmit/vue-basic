@@ -1,4 +1,6 @@
-# vue406
+# vue-basic
+
+最容易上手的Vue 2.0入门实战教程(其中vselection还没完成)
 
 ## Project setup
 ```
