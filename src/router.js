@@ -6,6 +6,7 @@ import DetailAnaPage from './views/detail/AnaPage'
 import DetailCouPage from './views/detail/CouPage'
 import DetailForPage from './views/detail/ForPage'
 import DetailPubPage from './views/detail/PubPage'
+import OrderListPage from './views/OrderList.vue'
 
 Vue.use(Router)
 
@@ -18,6 +19,10 @@ export default new Router({
       name: 'home',
       component: Home
     },
+	{
+			path: '/orderList',
+			component: OrderListPage
+		},
 		{
 			path: '/detail',
 			component: Detail,
