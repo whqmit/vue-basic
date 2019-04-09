@@ -1,6 +1,6 @@
 # vue-basic
 
-最容易上手的Vue 2.0入门实战教程(其中vselection还没完成)
+[最容易上手的Vue 2.0入门实战教程(其中vselection还没完成)](https://coding.imooc.com/class/91.html)
 
 ## Project setup
 ```
